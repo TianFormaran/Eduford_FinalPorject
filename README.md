@@ -1,0 +1,1 @@
+This project uses a php file to send emails and quieries that it receives from visitors directly to my email, it also uses google analytics to track the number and the location of viewers of this website.
